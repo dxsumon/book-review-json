@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781524879761/the-great-gatsby-9781524879761_hr.jpg",
+      "review": "A mesmerizing portrayal of the Jazz Age and its moral decadence, The Great Gatsby explores the elusive American Dream through the eyes of Jay Gatsby, a mysterious millionaire who throws extravagant parties in pursuit of his lost love, Daisy Buchanan. Fitzgerald's elegant prose and vivid characters paint a poignant picture of love, longing, and the pursuit of happiness, ultimately revealing the emptiness lurking beneath the glittering facade of wealth and privilege.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "review": "A timeless masterpiece that confronts issues of racial injustice, To Kill a Mockingbird follows the trial of a black man falsely accused of raping a white woman in the 1930s American South. Through the innocent eyes of young Scout Finch, Harper Lee delves into themes of compassion, empathy, and the moral complexities of society. With its unforgettable characters and powerful narrative, this Pulitzer Prize-winning novel continues to resonate with readers, challenging them to confront the realities of prejudice and discrimination.",
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Classic", "Legal Drama"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0OLqLgRkQjjEwfC3rIXVKQQH-MlJribWy6H_50FBKA&s",
+      "review": "A chilling dystopian novel that remains eerily relevant today, 1984 portrays a totalitarian regime where freedom of thought is suppressed, and reality is manipulated by a dictatorial government. George Orwell's bleak vision of a surveillance state serves as a warning against the dangers of authoritarianism and the erosion of individual liberties. With its haunting depiction of propaganda and thought control, this iconic work continues to provoke introspection and inspire resistance against oppressive regimes.",
+      "totalPages": 328,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://m.media-amazon.com/images/I/7108sdEUEGL._AC_UF1000,1000_QL80_.jpg",
+      "review": "An iconic coming-of-age novel that captures the disillusionment of youth, The Catcher in the Rye follows the rebellious teenager Holden Caulfield as he navigates the complexities of adolescence and searches for authenticity in a world filled with phoniness. J.D. Salinger's poignant portrayal of alienation and teenage angst resonates with readers of all ages, offering a timeless exploration of identity, alienation, and the quest for meaning in a superficial society.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Satire"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQLk04BegZBXQQ_-Y-pdDmoIm8i7mpZcXLpQwuBiqXQ&s",
+      "review": "A delightful romantic comedy that satirizes societal norms, Pride and Prejudice follows the spirited Elizabeth Bennet as she navigates the pitfalls of 19th-century British society in search of love and independence. Jane Austen's razor-sharp wit and keen observations of human nature illuminate this timeless tale of manners, marriage, and the complexities of social class. With its memorable characters and sparkling dialogue, this classic novel continues to enchant readers with its timeless charm and universal themes.",
+      "totalPages": 279,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLmP_6NpLeQ_tiXIpk03pViSfezkTBUvWlyxefR_FuhQ&s",
+      "review": "A hilarious and absurd journey through space that defies all expectations, The Hitchhiker's Guide to the Galaxy follows the unwitting Earthling Arthur Dent as he embarks on a series of misadventures across the cosmos with his eccentric alien friend Ford Prefect. Douglas Adams' irreverent humor and imaginative storytelling make this cult classic a must-read for fans of science fiction and comedy alike. With its witty satire and offbeat charm, this intergalactic romp is sure to leave readers laughing out loud.",
+      "totalPages": 215,
+      "rating": 4.4,
+      "category": "Science Fiction",
+      "tags": ["Humor", "Adventure"],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    }
+  ]
+  
